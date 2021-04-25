@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\FormerUneEquipe\FormerUneEquipe\bin\Debug\FormerUneEquipe.exe.config
+C:\Users\PC\source\repos\FormerUneEquipe\FormerUneEquipe\bin\Debug\FormerUneEquipe.exe
+C:\Users\PC\source\repos\FormerUneEquipe\FormerUneEquipe\bin\Debug\FormerUneEquipe.pdb
+C:\Users\PC\source\repos\FormerUneEquipe\FormerUneEquipe\obj\Debug\FormerUneEquipe.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\FormerUneEquipe\FormerUneEquipe\obj\Debug\FormerUneEquipe.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FormerUneEquipe\FormerUneEquipe\obj\Debug\FormerUneEquipe.exe
+C:\Users\PC\source\repos\FormerUneEquipe\FormerUneEquipe\obj\Debug\FormerUneEquipe.pdb
+F:\Utilisateur\PC\PC\source\repos\FormerUneEquipe\FormerUneEquipe\bin\Debug\FormerUneEquipe.exe.config
+F:\Utilisateur\PC\PC\source\repos\FormerUneEquipe\FormerUneEquipe\bin\Debug\FormerUneEquipe.exe
+F:\Utilisateur\PC\PC\source\repos\FormerUneEquipe\FormerUneEquipe\bin\Debug\FormerUneEquipe.pdb
+F:\Utilisateur\PC\PC\source\repos\FormerUneEquipe\FormerUneEquipe\obj\Debug\FormerUneEquipe.csprojAssemblyReference.cache
+F:\Utilisateur\PC\PC\source\repos\FormerUneEquipe\FormerUneEquipe\obj\Debug\FormerUneEquipe.csproj.CoreCompileInputs.cache
+F:\Utilisateur\PC\PC\source\repos\FormerUneEquipe\FormerUneEquipe\obj\Debug\FormerUneEquipe.exe
+F:\Utilisateur\PC\PC\source\repos\FormerUneEquipe\FormerUneEquipe\obj\Debug\FormerUneEquipe.pdb
